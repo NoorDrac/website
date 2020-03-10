@@ -34,7 +34,7 @@
   weight = 60
 
 [[main]]
-  name = "Hatchery"
+  name = "Chicken coop"
   url = "https://hatchery.badge.team"
   weight = 70
 
